@@ -1,0 +1,101 @@
+item_id,name,age_group,target_gender,occasion,season,color,min_temp,max_temp,metadata
+1,Chocolate Brown Button-up Shirt,Senior,Unisex,Formal,Spring/Autumn,Chocolate Brown,11,24,chocolate brown button-up shirt formal senior spring/autumn unisex
+2,Forest Green Denim Jacket,Senior,Unisex,Casual,Spring/Autumn,Forest Green,11,24,forest green denim jacket casual senior spring/autumn unisex
+3,Mint Green Windbreaker,Teen,Male,Sports,Winter,Mint Green,-15,10,mint green windbreaker sports teen winter male
+4,Pastel Pink Denim Shorts,Teen,Female,Casual,Summer,Pastel Pink,25,40,pastel pink denim shorts casual teen summer female
+5,Pastel Pink Cotton T-shirt,Teen,Female,Casual,Summer,Pastel Pink,25,40,pastel pink cotton t-shirt casual teen summer female
+6,Slate Grey Joggers,Adult,Male,Sports,Spring/Autumn,Slate Grey,11,24,slate grey joggers sports adult spring/autumn male
+7,Forest Green Jeans,Senior,Male,Casual,Spring/Autumn,Forest Green,11,24,forest green jeans casual senior spring/autumn male
+8,Sky Blue Button-up Shirt,Teen,Unisex,Formal,Spring/Autumn,Sky Blue,11,24,sky blue button-up shirt formal teen spring/autumn unisex
+9,Slate Grey Velvet Evening Gown,Adult,Female,Formal,Winter,Slate Grey,-15,10,slate grey velvet evening gown formal adult winter female
+10,Classic Black Puffer Jacket,Adult,Male,Casual,Winter,Classic Black,-15,10,classic black puffer jacket casual adult winter male
+11,Midnight Blue Thermal Flannel,Senior,Unisex,Casual,Winter,Midnight Blue,-15,10,midnight blue thermal flannel casual senior winter unisex
+12,Classic Black Compression Leggings,Adult,Female,Sports,Winter,Classic Black,-15,10,classic black compression leggings sports adult winter female
+13,Navy Blue Denim Shorts,Adult,Male,Casual,Summer,Navy Blue,25,40,navy blue denim shorts casual adult summer male
+14,Navy Blue Lightweight Blazer,Adult,Male,Formal,Summer,Navy Blue,25,40,navy blue lightweight blazer formal adult summer male
+15,Slate Grey Denim Shorts,Adult,Unisex,Casual,Summer,Slate Grey,25,40,slate grey denim shorts casual adult summer unisex
+16,Burgundy Linen Suit,Adult,Male,Formal,Summer,Burgundy,25,40,burgundy linen suit formal adult summer male
+17,Pastel Pink Linen Suit,Teen,Female,Formal,Summer,Pastel Pink,25,40,pastel pink linen suit formal teen summer female
+18,Navy Blue Thermal Tracksuit,Teen,Male,Sports,Winter,Navy Blue,-15,10,navy blue thermal tracksuit sports teen winter male
+19,Navy Blue Joggers,Teen,Unisex,Sports,Spring/Autumn,Navy Blue,11,24,navy blue joggers sports teen spring/autumn unisex
+20,Classic Black Button-up Shirt,Teen,Male,Formal,Spring/Autumn,Classic Black,11,24,classic black button-up shirt formal teen spring/autumn male
+21,Classic Black Thermal Tracksuit,Adult,Male,Sports,Winter,Classic Black,-15,10,classic black thermal tracksuit sports adult winter male
+22,Sky Blue Long Sleeve Tech Tee,Teen,Male,Sports,Spring/Autumn,Sky Blue,11,24,sky blue long sleeve tech tee sports teen spring/autumn male
+23,Sky Blue Breathable Tank,Teen,Female,Sports,Summer,Sky Blue,25,40,sky blue breathable tank sports teen summer female
+24,Dark Charcoal Windbreaker,Senior,Unisex,Sports,Winter,Dark Charcoal,-15,10,dark charcoal windbreaker sports senior winter unisex
+25,Pure White Breathable Tank,Adult,Female,Sports,Summer,Pure White,25,40,pure white breathable tank sports adult summer female
+26,Navy Blue Compression Leggings,Adult,Female,Sports,Winter,Navy Blue,-15,10,navy blue compression leggings sports adult winter female
+27,Dark Charcoal Compression Leggings,Senior,Female,Sports,Winter,Dark Charcoal,-15,10,dark charcoal compression leggings sports senior winter female
+28,Chocolate Brown Heavy Cardigan,Senior,Unisex,Casual,Winter,Chocolate Brown,-15,10,chocolate brown heavy cardigan casual senior winter unisex
+29,Forest Green Cotton Blazer,Senior,Unisex,Formal,Spring/Autumn,Forest Green,11,24,forest green cotton blazer formal senior spring/autumn unisex
+30,Pure White Denim Shorts,Teen,Unisex,Casual,Summer,Pure White,25,40,pure white denim shorts casual teen summer unisex
+31,Deep Maroon Denim Shorts,Senior,Unisex,Casual,Summer,Deep Maroon,25,40,deep maroon denim shorts casual senior summer unisex
+32,Pastel Pink Windbreaker,Teen,Female,Sports,Winter,Pastel Pink,-15,10,pastel pink windbreaker sports teen winter female
+33,Lavender Windbreaker,Teen,Female,Sports,Winter,Lavender,-15,10,lavender windbreaker sports teen winter female
+34,Forest Green Velvet Evening Gown,Senior,Female,Formal,Winter,Forest Green,-15,10,forest green velvet evening gown formal senior winter female
+35,Sky Blue Heavy Cardigan,Teen,Male,Casual,Winter,Sky Blue,-15,10,sky blue heavy cardigan casual teen winter male
+36,Lavender Long Sleeve Tech Tee,Teen,Female,Sports,Spring/Autumn,Lavender,11,24,lavender long sleeve tech tee sports teen spring/autumn female
+37,Slate Grey Heavy Cardigan,Adult,Male,Casual,Winter,Slate Grey,-15,10,slate grey heavy cardigan casual adult winter male
+38,Dark Charcoal Running Shorts,Senior,Unisex,Sports,Summer,Dark Charcoal,25,40,dark charcoal running shorts sports senior summer unisex
+39,Mint Green Velvet Evening Gown,Teen,Female,Formal,Winter,Mint Green,-15,10,mint green velvet evening gown formal teen winter female
+40,Pastel Pink Tank-top,Teen,Female,Casual,Summer,Pastel Pink,25,40,pastel pink tank-top casual teen summer female
+41,Burgundy Windbreaker,Adult,Male,Sports,Winter,Burgundy,-15,10,burgundy windbreaker sports adult winter male
+42,Lavender Mini Skirt,Teen,Female,Casual,Summer,Lavender,25,40,lavender mini skirt casual teen summer female
+43,Light Yellow Joggers,Teen,Male,Sports,Spring/Autumn,Light Yellow,11,24,light yellow joggers sports teen spring/autumn male
+44,Pure White Puffer Jacket,Adult,Unisex,Casual,Winter,Pure White,-15,10,pure white puffer jacket casual adult winter unisex
+45,Burgundy Velvet Evening Gown,Adult,Female,Formal,Winter,Burgundy,-15,10,burgundy velvet evening gown formal adult winter female
+46,Pure White Joggers,Adult,Unisex,Sports,Spring/Autumn,Pure White,11,24,pure white joggers sports adult spring/autumn unisex
+47,Navy Blue Yoga Pants,Teen,Male,Sports,Spring/Autumn,Navy Blue,11,24,navy blue yoga pants sports teen spring/autumn male
+48,Pure White Midi Dress,Teen,Female,Casual,Spring/Autumn,Pure White,11,24,pure white midi dress casual teen spring/autumn female
+49,Sky Blue Fleece Hoodie,Teen,Unisex,Casual,Winter,Sky Blue,-15,10,sky blue fleece hoodie casual teen winter unisex
+50,Classic Black Linen Suit,Adult,Male,Formal,Summer,Classic Black,25,40,classic black linen suit formal adult summer male
+51,Dark Charcoal Linen Suit,Senior,Unisex,Formal,Summer,Dark Charcoal,25,40,dark charcoal linen suit formal senior summer unisex
+52,Classic Black Joggers,Adult,Male,Sports,Spring/Autumn,Classic Black,11,24,classic black joggers sports adult spring/autumn male
+53,Pure White Pencil Skirt,Adult,Female,Formal,Spring/Autumn,Pure White,11,24,pure white pencil skirt formal adult spring/autumn female
+54,Mint Green Lightweight Blazer,Teen,Male,Formal,Summer,Mint Green,25,40,mint green lightweight blazer formal teen summer male
+55,Pure White Denim Shorts,Adult,Male,Casual,Summer,Pure White,25,40,pure white denim shorts casual adult summer male
+56,Dark Charcoal Wool Overcoat,Senior,Male,Formal,Winter,Dark Charcoal,-15,10,dark charcoal wool overcoat formal senior winter male
+57,Pastel Pink Compression Leggings,Teen,Female,Sports,Winter,Pastel Pink,-15,10,pastel pink compression leggings sports teen winter female
+58,Chocolate Brown Long Sleeve Tech Tee,Senior,Unisex,Sports,Spring/Autumn,Chocolate Brown,11,24,chocolate brown long sleeve tech tee sports senior spring/autumn unisex
+59,Burgundy Breathable Tank,Adult,Female,Sports,Summer,Burgundy,25,40,burgundy breathable tank sports adult summer female
+60,Peach Lightweight Blazer,Teen,Male,Formal,Summer,Peach,25,40,peach lightweight blazer formal teen summer male
+61,Pastel Pink Compression Leggings,Teen,Female,Sports,Winter,Pastel Pink,-15,10,pastel pink compression leggings sports teen winter female
+62,Light Yellow Silk Sundress,Teen,Female,Formal,Summer,Light Yellow,25,40,light yellow silk sundress formal teen summer female
+63,Pastel Pink Cotton Blazer,Teen,Female,Formal,Spring/Autumn,Pastel Pink,11,24,pastel pink cotton blazer formal teen spring/autumn female
+64,Midnight Blue Lightweight Blazer,Senior,Unisex,Formal,Summer,Midnight Blue,25,40,midnight blue lightweight blazer formal senior summer unisex
+65,Dark Charcoal Cotton Blazer,Senior,Male,Formal,Spring/Autumn,Dark Charcoal,11,24,dark charcoal cotton blazer formal senior spring/autumn male
+66,Navy Blue Light Sweater,Adult,Unisex,Casual,Spring/Autumn,Navy Blue,11,24,navy blue light sweater casual adult spring/autumn unisex
+67,Light Yellow Mini Skirt,Teen,Female,Casual,Summer,Light Yellow,25,40,light yellow mini skirt casual teen summer female
+68,Deep Maroon Denim Jacket,Senior,Male,Casual,Spring/Autumn,Deep Maroon,11,24,deep maroon denim jacket casual senior spring/autumn male
+69,Light Yellow Linen Suit,Teen,Male,Formal,Summer,Light Yellow,25,40,light yellow linen suit formal teen summer male
+70,Deep Maroon Pencil Skirt,Senior,Female,Formal,Spring/Autumn,Deep Maroon,11,24,deep maroon pencil skirt formal senior spring/autumn female
+71,Classic Black Light Sweater,Teen,Unisex,Casual,Spring/Autumn,Classic Black,11,24,classic black light sweater casual teen spring/autumn unisex
+72,Midnight Blue Tweed Blazer,Senior,Unisex,Formal,Winter,Midnight Blue,-15,10,midnight blue tweed blazer formal senior winter unisex
+73,Pure White Long Sleeve Tech Tee,Adult,Unisex,Sports,Spring/Autumn,Pure White,11,24,pure white long sleeve tech tee sports adult spring/autumn unisex
+74,Light Yellow Running Shorts,Teen,Male,Sports,Summer,Light Yellow,25,40,light yellow running shorts sports teen summer male
+75,Pure White Cotton T-shirt,Adult,Male,Casual,Summer,Pure White,25,40,pure white cotton t-shirt casual adult summer male
+76,Midnight Blue Wool Overcoat,Senior,Male,Formal,Winter,Midnight Blue,-15,10,midnight blue wool overcoat formal senior winter male
+77,Lavender Windbreaker,Teen,Female,Sports,Winter,Lavender,-15,10,lavender windbreaker sports teen winter female
+78,Midnight Blue Breathable Tank,Senior,Female,Sports,Summer,Midnight Blue,25,40,midnight blue breathable tank sports senior summer female
+79,Pure White Thermal Flannel,Adult,Unisex,Casual,Winter,Pure White,-15,10,pure white thermal flannel casual adult winter unisex
+80,Deep Maroon Long Sleeve Tech Tee,Senior,Unisex,Sports,Spring/Autumn,Deep Maroon,11,24,deep maroon long sleeve tech tee sports senior spring/autumn unisex
+81,Dark Charcoal Silk Sundress,Senior,Female,Formal,Summer,Dark Charcoal,25,40,dark charcoal silk sundress formal senior summer female
+82,Dark Charcoal Tweed Blazer,Senior,Unisex,Formal,Winter,Dark Charcoal,-15,10,dark charcoal tweed blazer formal senior winter unisex
+83,Navy Blue Denim Shorts,Teen,Unisex,Casual,Summer,Navy Blue,25,40,navy blue denim shorts casual teen summer unisex
+84,Burgundy Wool Overcoat,Adult,Male,Formal,Winter,Burgundy,-15,10,burgundy wool overcoat formal adult winter male
+85,Pure White Compression Leggings,Adult,Female,Sports,Winter,Pure White,-15,10,pure white compression leggings sports adult winter female
+86,Peach Heavy Cardigan,Teen,Unisex,Casual,Winter,Peach,-15,10,peach heavy cardigan casual teen winter unisex
+87,Slate Grey Puffer Jacket,Adult,Unisex,Casual,Winter,Slate Grey,-15,10,slate grey puffer jacket casual adult winter unisex
+88,Classic Black Mini Skirt,Teen,Female,Casual,Summer,Classic Black,25,40,classic black mini skirt casual teen summer female
+89,Classic Black Puffer Jacket,Teen,Male,Casual,Winter,Classic Black,-15,10,classic black puffer jacket casual teen winter male
+90,Slate Grey Cotton T-shirt,Adult,Unisex,Casual,Summer,Slate Grey,25,40,slate grey cotton t-shirt casual adult summer unisex
+91,Classic Black Tank-top,Adult,Female,Casual,Summer,Classic Black,25,40,classic black tank-top casual adult summer female
+92,Classic Black Velvet Evening Gown,Adult,Female,Formal,Winter,Classic Black,-15,10,classic black velvet evening gown formal adult winter female
+93,Pastel Pink Denim Jacket,Teen,Female,Casual,Spring/Autumn,Pastel Pink,11,24,pastel pink denim jacket casual teen spring/autumn female
+94,Sky Blue Compression Leggings,Teen,Female,Sports,Winter,Sky Blue,-15,10,sky blue compression leggings sports teen winter female
+95,Slate Grey Tweed Blazer,Adult,Unisex,Formal,Winter,Slate Grey,-15,10,slate grey tweed blazer formal adult winter unisex
+96,Burgundy Windbreaker,Adult,Unisex,Sports,Winter,Burgundy,-15,10,burgundy windbreaker sports adult winter unisex
+97,Navy Blue Breathable Tank,Teen,Female,Sports,Summer,Navy Blue,25,40,navy blue breathable tank sports teen summer female
+98,Navy Blue Puffer Jacket,Adult,Unisex,Casual,Winter,Navy Blue,-15,10,navy blue puffer jacket casual adult winter unisex
+99,Mint Green Windbreaker,Teen,Unisex,Sports,Winter,Mint Green,-15,10,mint green windbreaker sports teen winter unisex
+100,Pure White Cotton Blazer,Teen,Male,Formal,Spring/Autumn,Pure White,11,24,pure white cotton blazer formal teen spring/autumn male
