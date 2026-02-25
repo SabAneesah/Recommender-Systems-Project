@@ -1,0 +1,1 @@
+from .recommender_logic import HybridFashionRecommender
